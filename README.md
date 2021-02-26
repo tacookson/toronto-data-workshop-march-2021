@@ -1,2 +1,5 @@
-# toronto-data-workshop-march-2021
-Materials related to Alex Cookson's talk at the Toronto Data Workshop
+# Great Datasets: A Love Story
+
+*Work in process*
+
+Materials for Alex Cookson's March 25, 2021 presentation to the [Toronto Data Workshop](https://rohanalexander.com/toronto_data_workshop.html)
